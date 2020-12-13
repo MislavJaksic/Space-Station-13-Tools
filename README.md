@@ -36,6 +36,7 @@ $: make html
 ### ss13_tools
 
 ```
+$: poetry run python ./ss13_tools/wikimedia_table_parser.py
 $: poetry run python ./ss13_tools/genetic_analyzer.py
 $: poetry run python ./ss13_tools/password_analyzer.py ****n o e
 
